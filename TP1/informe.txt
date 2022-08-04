@@ -1,3 +1,6 @@
+Integrantes: Juan Cruz Estevez, Gonzalo Mato, Agustin Augurusa y Pedro Elizalde Acevedo.
+
+Informe:
 1. Dado los resultados obtenidos con los diferentes métodos, podemos observar 
     la precision de cada uno. En un principio, el resultado del item c) podría
     parecer como el más preciso debido a su extensión, pero esto no es asi ya que
