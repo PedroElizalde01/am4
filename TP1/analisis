@@ -1,0 +1,12 @@
+1. Dado los resultados obtenidos con los diferentes métodos, podemos observar 
+    la precision de cada uno. En un principio, el resultado del item c) podría
+    parecer como el más preciso debido a su extensión, pero esto no es asi ya que
+    si lo comparamos con el número π que conocemos, luego de su quinceava cifra
+    toma un valor diferente. Por el mismo motivo, la estimación obtenida en el 
+    item a) resulta ser el más preciso. Además, el trabajo nos hizo notar los
+    errores vistos en clase (en este caso, errores de redondeo y de método)
+
+2. Revisar archivo "pi.py"
+
+3. Creemos que el primer caso (usando la libreria math de python) es 
+mas conveniente debido a la simplicidad y la precisión del mismo.
